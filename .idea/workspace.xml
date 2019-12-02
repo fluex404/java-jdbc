@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7125f62-14ac-4b91-83c7-c5146fb69044" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/DatabaseMetaDataExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/PreparedStatementExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/ResultSetMetaDataExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/RetrieveImageExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/RowSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/StatementExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/StoreImageExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fluex404/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fluex404/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fluex404/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fluex404/Main.class" afterDir="false" />
-    </list>
+    <list default="true" id="e7125f62-14ac-4b91-83c7-c5146fb69044" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575240803521</updated>
-      <workItem from="1575240805041" duration="6205000" />
+      <workItem from="1575240805041" duration="6926000" />
     </task>
     <servers />
   </component>
