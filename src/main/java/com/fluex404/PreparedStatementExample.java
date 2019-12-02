@@ -1,8 +1,9 @@
 package com.fluex404;
 
+
 import java.sql.*;
 
-public class Main {
+public class PreparedStatementExample {
     public static void main(String... args) {
         try {
             Class.forName("org.mariadb.jdbc.Driver");
@@ -12,6 +13,14 @@ public class Main {
 
             // Create Statement, responsible to execute query
             Statement st = con.createStatement();
+
+            // Create PrepareStatement for inset the data into the query
+            PreparedStatement ps = con.prepareStatement("INSERT INTO student (name, email) values(?, ?)");
+            ps.setString(1, "Hilman");
+            ps.setString(2 , "hilman123@gmail.com");
+
+            ps.execute();
+
             // Resultset, result of query is ResultSet
             ResultSet rs = st.executeQuery("SELECT s.id, s.name, s.email, s.age *2 AS age FROM student s");
 
